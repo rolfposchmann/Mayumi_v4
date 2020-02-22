@@ -3,14 +3,14 @@ Mayumi v4 PS1 Modchip. Often I find just modder to sell their chips and don't sh
 Another annoying thing is the precompiled hex files for old chips.
 So let's change this :)
 
-# PIC Microcontroller
+## PIC Microcontroller
 * Microchip PIC12F508 (newer version of PIC12C508)
 
-# Tools needed
+## Tools needed
 * PICkit 3
 * SOP8 to DIP8 adapter (pitch: 1.27mm, often labled as "e")
 
-# Connecting the PIC
+## Connecting the PIC
 
 * PICKit 1 ⟷ IC 4 (VPP)
 * PICKit 2 ⟷ IC 1 (VDD)
