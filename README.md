@@ -1,7 +1,8 @@
 # Mayumi_v4
 Mayumi v4 PS1 Modchip. Often I find just modder to sell their chips and don't show how to programm them on your own.
-Another annoying thing is the precompiled hex files for old chips.
+Sadly, the original website http://syste.ms/~mayumi/ is no longer online.
 So let's change this :)
+Most modders will use the old hex files from the year 2000. I could not find any source codes.
 
 ## PIC Microcontroller
 * Microchip PIC12F508 (newer version of PIC12C508)
@@ -21,6 +22,8 @@ So let's change this :)
 ![Connect the PIC](/images/pickit-to-12f508.jpg)
 
 ## Supply Voltage (VDD)
+
+See page 72.
 
 | Min   | Max   |
 |-------|-------|
