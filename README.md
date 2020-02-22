@@ -21,6 +21,7 @@ So let's change this :)
 ![Connect the PIC](/images/pickit-to-12f508.jpg)
 
 ## Supply Voltage (VDD)
+
     | Min        | Max  |
     | ----------- | --------- |
     | 2.2V | 5.5V     |
