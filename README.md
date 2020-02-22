@@ -36,6 +36,6 @@ See page 72.
 
 ## Regions
 
-SCEE: Europe (Sony Computer Entertainment Europe)
-SCEA: America (Sony Computer Entertainment America)
-SCEI: Japan (Sony Computer Entertainment Inc.)
+- SCEE: Europe (Sony Computer Entertainment Europe)
+- SCEA: America (Sony Computer Entertainment America)
+- SCEI: Japan (Sony Computer Entertainment Inc.)
