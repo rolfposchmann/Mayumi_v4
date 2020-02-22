@@ -33,3 +33,9 @@ See page 72.
 | Min   | Max   |
 |-------|-------|
 | 2.2 V | 5.5 V |
+
+## Regions
+
+SCEE: Europe (Sony Computer Entertainment Europe)
+SCEA: America (Sony Computer Entertainment America)
+SCEI: Japan (Sony Computer Entertainment Inc.)
