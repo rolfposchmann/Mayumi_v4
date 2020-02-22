@@ -1,8 +1,11 @@
 # Mayumi_v4
 Mayumi v4 PS1 Modchip. Often I find just modder to sell their chips and don't show how to programm them on your own.
 Sadly, the original website http://syste.ms/~mayumi/ is no longer online.
-So let's change this :)
+
+![Screenshot of Website](/images/original_website.PNG)
+
 Most modders will use the old hex files from the year 2000. I could not find any source codes.
+So I dumped the old website and will share all the old information I found.
 
 ## PIC Microcontroller
 * Microchip PIC12F508 (newer version of PIC12C508)
