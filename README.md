@@ -22,6 +22,6 @@ So let's change this :)
 
 ## Supply Voltage (VDD)
 
-    | Min        | Max  |
-    | ----------- | --------- |
-    | 2.2V | 5.5V     |
+| Min   | Max   |
+|-------|-------|
+| 2.2 V | 5.5 V |
